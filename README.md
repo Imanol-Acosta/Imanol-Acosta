@@ -1,6 +1,4 @@
-# Imanol Acosta
-
-**Desarrollo web y Android · Web & Android Development**
+![Imanol Acosta — Full Stack Developer · SaaS, aplicaciones móviles y desarrollo web](assets/github-banner.svg)
 
 Desarrollo aplicaciones con C#/.NET, Blazor y Kotlin. Mi trabajo abarca comercio electrónico, gestión de información e interfaces para aplicaciones web y móviles.
 
