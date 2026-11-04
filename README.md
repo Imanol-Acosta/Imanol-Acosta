@@ -1,8 +1,8 @@
-![Imanol Acosta — Full Stack Developer · SaaS, aplicaciones móviles y desarrollo web](assets/github-banner-arquitectura.gif)
+![Imanol Acosta — Full Stack Developer · SaaS, aplicaciones web y Android · React, TypeScript y Supabase](assets/github-banner-fullstack.gif)
 
-Desarrollo aplicaciones con C#/.NET, Blazor y Kotlin. Mi trabajo abarca comercio electrónico, gestión de información e interfaces para aplicaciones web y móviles.
+Desarrollo aplicaciones web y SaaS para la operación diaria de negocios y clínicas. Mi trabajo abarca la gestión de eventos y alquileres, la atención ginecológica y la gestión odontológica. También desarrollo aplicaciones nativas para Android.
 
-I build applications with C#/.NET, Blazor, and Kotlin. My work covers e-commerce, information management, and interfaces for web and mobile applications.
+I build web applications and SaaS products for day-to-day business and clinic operations. My work spans event and rental management, gynecology, and dental practice management. I also build native Android applications.
 
 ## Productos destacados · Featured products
 
@@ -48,45 +48,23 @@ A dental practice platform that connects appointments, records, treatments, and 
 
 | Área · Area | Tecnologías · Technologies |
 | :--- | :--- |
-| Web | C# · .NET · ASP.NET Core · Blazor · HTML · CSS · Bootstrap |
-| Android | Kotlin · Jetpack Compose · Room · Hilt · Retrofit |
-| Datos · Data | Entity Framework Core · SQL Server · PostgreSQL |
+| SaaS y aplicaciones web · SaaS & web applications | React · TypeScript · Vite · Tailwind CSS |
+| Datos y backend · Data & backend | Supabase · PostgreSQL |
+| Android nativo · Native Android | Kotlin · Jetpack Compose · Room · Hilt · Retrofit |
+| Desarrollo con .NET · .NET development | C# · ASP.NET Core · Blazor · Entity Framework Core · SQL Server |
 | Escritorio · Desktop | Java · JavaFX |
 
 ## Repositorios públicos · Public repositories
 
-### [GinecoSysApp](https://github.com/Imanol-Acosta/GinecosysApp)
+Muestras de código que complementan los productos destacados: aplicaciones web con .NET y desarrollo nativo para Android.
 
-Aplicación Android para gestionar pacientes y consultas ginecológicas, con interfaz en Jetpack Compose y capas de datos, dominio y presentación.
+Code samples that complement the featured products: .NET web apps and native Android development.
 
-Android application for managing patients and gynecological consultations, with a Jetpack Compose interface and data, domain, and presentation layers.
-
-`Kotlin` `Jetpack Compose` `Room` `Hilt` `Retrofit`
-
-### [KeyStore](https://github.com/Imanol-Acosta/KeyStoree)
-
-Aplicación de comercio electrónico con catálogo de productos, carrito, gestión de pedidos y autenticación con ASP.NET Core Identity.
-
-E-commerce application with a product catalog, shopping cart, order management, and authentication using ASP.NET Core Identity.
-
-`C#` `Blazor` `.NET` `Entity Framework Core` `SQL Server`
-
-### [Registro de estudiantes](https://github.com/Imanol-Acosta/registroEstudiantes)
-
-Aplicación Android para administrar estudiantes, asignaturas y tipos de penalidad, con persistencia local y separación por capas.
-
-Android application for managing students, subjects, and penalty types, with local persistence and a layered structure.
-
-`Kotlin` `Jetpack Compose` `Room` `Hilt`
-
-### [Registro técnico](https://github.com/Imanol-Acosta/RegistroTecnico)
-
-Aplicación web para crear, consultar, editar y eliminar registros de técnicos, con una capa de servicios para el acceso a datos.
-
-Web application for creating, browsing, editing, and deleting technician records, with a service layer for data access.
-
-`C#` `Blazor` `.NET` `Entity Framework Core` `PostgreSQL`
-
----
+| Proyecto · Project | Qué muestra · What it demonstrates |
+| :--- | :--- |
+| [GinecoSysApp](https://github.com/Imanol-Acosta/GinecosysApp) | Aplicación Android del ecosistema GinecoSys, con módulos de pacientes y consultas. / Native Android app from the GinecoSys ecosystem, with patient and visit modules. **Kotlin · Jetpack Compose · Room** |
+| [KeyStore](https://github.com/Imanol-Acosta/KeyStoree) | Comercio electrónico con catálogo, carrito y pedidos. / E-commerce app with a catalog, cart, and order management. **C# · Blazor · SQL Server** |
+| [Registro técnico](https://github.com/Imanol-Acosta/RegistroTecnico) | Aplicación web de gestión de registros y acceso a datos. / Web app for managing technician records and data access. **C# · Blazor · PostgreSQL** |
+| [Registro de estudiantes](https://github.com/Imanol-Acosta/registroEstudiantes) | Aplicación Android con persistencia local y separación por capas. / Android app with local persistence and a layered structure. **Kotlin · Jetpack Compose · Room** |
 
 [Explora mis repositorios · Explore my repositories](https://github.com/Imanol-Acosta?tab=repositories)
