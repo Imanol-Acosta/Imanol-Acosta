@@ -16,7 +16,7 @@ An operations platform that brings event planning, rentals, and inventory togeth
 <p><a href="https://tu-sueno-casa-de-novia.vercel.app/">Ver acceso al sistema · View sign-in</a></p>
 </td>
 <td width="42%" align="center" valign="middle">
-<a href="https://tu-sueno-casa-de-novia.vercel.app/"><img src="assets/portfolio/eventsys-acceso.jpg" width="320" alt="Pantalla de acceso de EventSys para Tu Sueño Casa de Novias"></a>
+<a href="assets/portfolio/eventsys-dashboard.png"><img src="assets/portfolio/eventsys-dashboard.png" width="320" alt="Panel principal de EventSys: resumen de operaciones, inventario y calendario"></a><br><sub>Panel principal · Dashboard — clic para ampliar / click to enlarge</sub>
 </td>
 </tr>
 <tr>
